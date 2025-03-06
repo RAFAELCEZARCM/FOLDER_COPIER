@@ -1,0 +1,4 @@
+path_cnpj_list: "C:/cnpjs/cnpjs.xlsx"
+path_files: "C:/files"
+path_pasta_destino: "C:/pasta_destino"
+path_arquivo_log: "C:/logs/script.log"
