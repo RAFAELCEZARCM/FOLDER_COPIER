@@ -10,3 +10,13 @@ O arquivo config desse script cordena os caminhos de processamento, são eles:
 
 ## OBERSERVAÇÕES GERAIS DO PROJETO
 - Esse projeto contribui para ocasiões na qual precisamos varrer diversos arquivos XML em diferentes locais.
+
+## CRIAÇÃO DO AMBIENTE VIRTUAL
+python -m venv venv
+
+## ATIVAÇÃO DO AMBIENTE VIRTUAL
+venv\Scripts\activate
+
+## BAIXAR LIBS 
+pip install -r requirements.txt
+
